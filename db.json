@@ -2,104 +2,143 @@
   "product": [
     {
       "id": 1,
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
       "name": "Playstation 5 Controller - White",
       "price": 50,
+      "img": "https://m.media-amazon.com/images/I/61IIJGmdmnL._SL1500_.jpg",
       "Description": "Playstation 5 Controller",
       "category": "Video Games"
     },
     {
       "id": 2,
-      "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-      "name": "Playstation 5",
+      "name": "Playstation 5 Digital",
       "price": 300,
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
       "Description": "Playstation 5 console",
       "category": "Video Games"
     },
     {
       "id": 3,
-      "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
       "name": "Splid Pad Pro - Zelda Tear of the Kingdom",
       "price": 20,
+      "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%20Accessories/Controllers/split-pad-pro-for-nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom-edition-120385/120385-hori-split-pad-pro-zelda-totk-front-detached-1200x675",
       "Description": "Controller for Nintendo Switch",
       "category": "Video Games"
     },
     {
       "id": 4,
-      "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
       "name": "Nintendo Switch",
       "price": 250,
+      "img": "https://m.media-amazon.com/images/I/51Gz7IimgoL._AC_SL1024_.jpg",
       "Description": "Nintendo Switch console",
       "category": "Video Games"
     },
     {
       "id": 5,
       "name": "PlayStation 5",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 500,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png",
       "description": "Next generation gaming console",
       "category": "Console"
     },
     {
       "id": 6,
       "name": "Xbox Series X",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 400,
+      "img": "https://assets.xboxservices.com/assets/fb/d2/fbd2cb56-5c25-414d-9f46-e6a164cdf5be.png?n=XBX_A-BuyBoxBGImage01-D.png",
       "description": "Powerful gaming console",
       "category": "Console"
     },
     {
       "id": 7,
-      "name": "Nintendo Switch",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "name": "Nintendo Gameboy Advance",
+      "price": 200,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nintendo-Game-Boy-Advance-Purple-FL.jpg",
       "description": "Hybrid gaming console",
       "category": "Console"
     },
     {
       "id": 8,
-      "name": "PlayStation 4",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "name": "PlayStation 4 - Fat",
+      "price": 300,
+      "img": "https://www.gamerfocus.co/wp-content/uploads/2015/11/PiEsFor.jpg",
       "description": "Previous generation gaming console",
       "category": "Console"
     },
     {
       "id": 9,
       "name": "Xbox One",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 250,
+      "img": "https://http2.mlstatic.com/D_Q_NP_834546-MLA50832788403_072022-O.webp",
       "description": "Previous generation gaming console",
       "category": "Console"
     },
     {
       "id": 10,
       "name": "Nintendo 3DS",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 150,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/1200px-Nintendo-3DS-AquaOpen.png",
       "description": "Handheld gaming console",
       "category": "Console"
     },
     {
       "id": 11,
       "name": "Sega Genesis",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 120,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sega-Genesis-Mk2-6button.jpg/2560px-Sega-Genesis-Mk2-6button.jpg",
       "description": "Retro gaming console",
       "category": "Console"
     },
     {
       "id": 12,
       "name": "Atari 2600",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 80,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Atari-2600-Wood-4Sw-Set.jpg",
       "description": "Vintage gaming console",
       "category": "Console"
     },
     {
       "id": 13,
       "name": "Super Nintendo Entertainment System",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 160,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/SNES-Mod1-Console-Set.png",
       "description": "Classic gaming console",
       "category": "Console"
     },
     {
       "id": 14,
       "name": "Nintendo 64",
-      "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+      "price": 170,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nintendo-64-wController-L.jpg/1200px-Nintendo-64-wController-L.jpg",
       "description": "Iconic gaming console",
+      "category": "Console"
+    },
+    {
+      "id": 15,
+      "name": "Nintendo Switch Oled",
+      "price": 250,
+      "img": "https://falabella.scene7.com/is/image/FalabellaCO/gsc_118315403_2051977_1?wid=800&hei=800&qlt=70",
+      "description": "Hybrid gaming console",
+      "category": "Console"
+    },
+    {
+      "id": 16,
+      "name": "Nintendo Switch Lite",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_770609-MLU72631430362_112023-O.webp",
+      "description": "Hybrid gaming console",
+      "category": "Console"
+    },
+    {
+      "id": 17,
+      "name": "Playstation 4 - Slim",
+      "img": "https://images-cdn.ubuy.co.in/64e3468236836403d857c6ab-sony-playstation-4-slim-500gb-console.jpg",
+      "description": "Previous generation gaming console",
+      "category": "Console"
+    },
+    {
+      "id": 18,
+      "name": "Playstation 4 - Pro",
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-pro-product-thumbnail-01-en-14sep21?$facebook$",
+      "description": "Previous generation gaming console",
       "category": "Console"
     }
   ]
